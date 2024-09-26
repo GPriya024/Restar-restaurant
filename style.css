@@ -1,0 +1,97 @@
+* {
+    margin: none;
+    padding: none;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.container {
+    padding: 5px;
+}
+
+.section1 {
+    background-color: black;
+    color: white;
+    padding: 3px;
+    text-align: center;
+}
+
+.section1 li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 5px;
+    color: whitesmoke;
+}
+
+
+
+.menucard {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.card {
+    display: inline-block;
+    width: 200px;
+    background-color: white;
+    color: black;
+    border: solid black 1px;
+    padding-bottom: 10px;
+    vertical-align: top;
+
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.card__title {
+    margin-top: 0px;
+}
+
+.card__desc {
+    font-size: small;
+    margin-top: 0px;
+}
+
+.contact-form {
+    display: inline-block;
+}
+
+.card__butt {
+    background-color: black;
+    color: white;
+    border: none;
+    border: solid black 1px;
+    font-family: "Poppins";
+    font-size: medium;
+}
+
+.card__butt:hover {
+    background-color: greenyellow;
+    color: black;
+}
+
+.sub {
+    width: 300px;
+    height: 25px;
+    background-color: yellow;
+}
+
+.contact__butt {
+
+    background-color: yellow;
+    color: black;
+    width: 350px;
+    font-family: "Poppins";
+    margin-bottom: 10px;
+
+
+}
